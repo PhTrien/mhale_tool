@@ -1,7 +1,7 @@
 # MHALE TOOL
 
 <p align="center">
-  <img src="images/logo.png" width="160" alt="MHALE TOOL Logo">
+  <img src="images/logo.jpg" width="160" alt="MHALE TOOL Logo">
 </p>
 
 <p align="center">
