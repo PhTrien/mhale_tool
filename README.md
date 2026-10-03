@@ -1,7 +1,7 @@
 # MHALE TOOL
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee9ad0ca-3ee1-4458-bdb7-93cba11530f0" width="180" alt="MHALE TOOL Logo">
+  <img src="images/logo.png" width="160" alt="MHALE TOOL Logo">
 </p>
 
 <p align="center">
@@ -68,12 +68,22 @@ Giao diện hiện đại, tiếng Việt 100%, hỗ trợ tray icon.
 
 | Module | Screenshot |
 |--------|----------|
-| Thông tin máy tính | ![Thông tin máy tính](https://github.com/user-attachments/assets/612b2594-d982-4449-adf7-595dfb0761bf) |
-| Thiết lập Windows | ![Thiết lập Windows](https://github.com/user-attachments/assets/2ee31e53-e817-47ea-8ccc-7b95e56da000) |
-| Cài đặt Office | ![Cài đặt Office](https://github.com/user-attachments/assets/df8c2367-d2c1-4ac5-902b-2b2c5da78e47) |
-| Kho ISO | ![Kho ISO](https://github.com/user-attachments/assets/79fc9155-b3fa-4c15-88ba-349ed8d28938) |
-| Quản lý BitLocker | ![BitLocker](https://github.com/user-attachments/assets/7b70fd36-1ef7-4f60-a604-5c1daa0171ea) |
-| Tray Menu | ![Tray Menu](https://github.com/user-attachments/assets/06161577-0289-4104-9fe2-585c5d636532) |
+| Thông tin máy tính | ![Thông tin máy tính](images/01_thong_tin_may_tinh.png) |
+| Thiết lập Windows | ![Thiết lập Windows](images/02_thiet_lap_windows.png) |
+| Thiết lập Office | ![Thiết lập Office](images/03_thiet_lap_office.png) |
+| Sao lưu WiFi | ![Sao lưu WiFi](images/04_sao_luu_wifi.png) |
+| Sao lưu Driver | ![Sao lưu Driver](images/05_sao_luu_driver.png) |
+| Sao lưu Dữ liệu | ![Sao lưu Dữ liệu](images/06_sao_luu_du_lieu.png) |
+| Zalo Tool | ![Zalo Tool](images/07_zalo_tool.png) |
+| Kho ứng dụng | ![Kho ứng dụng](images/08_kho_ung_dung.png) |
+| Cài đặt Office | ![Cài đặt Office](images/09_cai_dat_office.png) |
+| Kho ISO | ![Kho ISO](images/10_kho_iso.png) |
+| Thiết lập máy in | ![Thiết lập máy in](images/11_thiet_lap_may_in.png) |
+| Xóa / Gỡ phần mềm rác | ![Xóa / Gỡ phần mềm rác](images/12_xoa_go_phan_mem_rac.png) |
+| Store cho Win LTSC | ![Store cho Win LTSC](images/13_store_cho_win_ltsc.png) |
+| Kho Driver IRST | ![Kho Driver IRST](images/14_kho_driver_irst.png) |
+| Tray Menu | ![Tray Menu](images/15_khay_he_thong_tray_menu.png) |
+| Quản lý BitLocker | ![BitLocker](images/test_bitlocker_tab.png) |
 
 ---
 
@@ -86,7 +96,7 @@ Giao diện hiện đại, tiếng Việt 100%, hỗ trợ tray icon.
 
 ## Tải về & Sử dụng
 
-1. Truy cập trang [**Releases**](https://github.com/PhTrien/mhale_tool/releases)
+1. Truy cập trang **[Releases](https://github.com/PhTrien/mhale_tool/releases)**
 2. Tải bản phát hành mới nhất
 3. Giải nén và chạy file `MHALE TOOL.exe`
 4. Cho phép quyền Administrator khi được hỏi
