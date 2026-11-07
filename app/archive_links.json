@@ -1,0 +1,106 @@
+{
+  "idm": {
+    "name": "IDM",
+    "url": "https://download.internetdownloadmanager.com/idman643build12.exe",
+    "url_server1": "https://download.internetdownloadmanager.com/idman643build12.exe",
+    "url_server2": "https://cloud.mhale.io.vn/IDM-6.43.15.zip",
+    "fallback_urls": [
+      "https://cloud.mhale.io.vn/IDM-6.43.15.zip",
+      "https://huggingface.co/datasets/Mhale06/software/resolve/main/IDM-6.43.15.zip"
+    ],
+    "sha256": ""
+  },
+  "winrar": {
+    "name": "WinRAR",
+    "url": "https://www.rarlab.com/rar/winrar-x64-723.exe",
+    "url_server1": "https://www.rarlab.com/rar/winrar-x64-723.exe",
+    "url_server2": "https://cloud.mhale.io.vn/winrar-x64-723_2.zip",
+    "fallback_urls": [
+      "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-723.exe",
+      "https://cloud.mhale.io.vn/winrar-x64-723_2.zip",
+      "https://huggingface.co/datasets/Mhale06/software/resolve/main/winrar-x64-723_2.zip?download=true",
+      "https://raw.githubusercontent.com/PhTrien/Software/main/winrar-x64-723.zip",
+      "https://archive.org/download/winrar-x64-723_202609/winrar-x64-723.zip"
+    ],
+    "sha256": ""
+  },
+  "revo": {
+    "name": "Revo Uninstaller",
+    "url": "https://download.revouninstaller.com/download/revosetup.exe",
+    "url_server1": "https://download.revouninstaller.com/download/revosetup.exe",
+    "url_server2": "https://cloud.mhale.io.vn/Revo.Uninstaller.Pro-5.5.2.zip",
+    "fallback_urls": [
+      "https://cloud.mhale.io.vn/Revo.Uninstaller.Pro-5.5.2.zip",
+      "https://huggingface.co/datasets/Mhale06/software/resolve/main/Revo.Uninstaller.Pro-5.5.2.zip?download=true",
+      "https://github.com/PhTrien/Software/releases/download/v1.0/Revo.Uninstaller.Pro-5.5.2.zip",
+      "https://archive.org/download/revo.-uninstaller.-pro-5.5.2_202609/Revo.Uninstaller.Pro-5.5.2.zip"
+    ],
+    "sha256": ""
+  },
+  "anydesk": {
+    "name": "AnyDesk",
+    "url": "https://cloud.mhale.io.vn/AnyDesk.zip",
+    "fallback_urls": [
+      "https://huggingface.co/datasets/Mhale06/software/resolve/main/AnyDesk.zip"
+    ],
+    "sha256": "ecc4ef2b7801149667fee1febfaed72f2ca2a79c632c3a1ce4e4a72df71df201"
+  },
+  "dotnet35": {
+    "name": ".NET Framework 3.5 (Offline)",
+    "url": "https://cloud.mhale.io.vn/install_net_farmwork3.5.zip",
+    "fallback_urls": [
+      "https://huggingface.co/datasets/Mhale06/software/resolve/main/install_net_farmwork3.5.zip"
+    ],
+    "sha256": "c1d5b50582872f926940ccd56f863ace0a3d78fc78997bc3f47a4f1edfcfc32d"
+  },
+  "obs": {
+    "name": "OBS Studio",
+    "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64-Installer.exe",
+    "sha256": ""
+  },
+  "vmware_17_6_0": {
+    "name": "VMware Workstation 17.6.0",
+    "url": "https://huggingface.co/datasets/Mhale06/VMware_Workstation_Pro/resolve/main/VMware-workstation-full-17.6.0-24238078.zip",
+    "sha256": "eb484debf8a5dffa604202b2d00ce043b0f8fa138e6d22078a40b030a8ab5e3d"
+  },
+  "vmware_17_6_1": {
+    "name": "VMware Workstation 17.6.1",
+    "url": "https://huggingface.co/datasets/Mhale06/VMware_Workstation_Pro/resolve/main/VMware-workstation-full-17.6.1-24319023.zip",
+    "sha256": "488d777d0017b170d2adc446b347f439b5cd551d3585fd33119d8ae159e163bd"
+  },
+  "vmware_17_6_2": {
+    "name": "VMware Workstation 17.6.2",
+    "url": "https://huggingface.co/datasets/Mhale06/VMware_Workstation_Pro/resolve/main/VMware-workstation-full-17.6.2-24409262.zip",
+    "sha256": "b9953da524f08b6a6f34637ea8ffcab02ff138217a960a964d39273731b696cf"
+  },
+  "vmware_17_6_3": {
+    "name": "VMware Workstation 17.6.3",
+    "url": "https://huggingface.co/datasets/Mhale06/VMware_Workstation_Pro/resolve/main/VMware-workstation-full-17.6.3-24583834.zip",
+    "sha256": "52bcfe0fa3fc0136b41d54a7a12be9ce9ba3ab04514e1865cb536e707dbe4b2a"
+  },
+  "vmware_17_6_4": {
+    "name": "VMware Workstation 17.6.4",
+    "url": "https://huggingface.co/datasets/Mhale06/VMware_Workstation_Pro/resolve/main/VMware-workstation-full-17.6.4-24832109.zip",
+    "sha256": "a2d84fdb279b03059a231dfc00d89cfce3edca541589e17eee1bc0a424d7473e"
+  },
+  "vmware_25h2": {
+    "name": "VMware Workstation 25H2",
+    "url": "https://huggingface.co/datasets/Mhale06/VMware_Workstation_Pro/resolve/main/VMware-Workstation-Full-25H2-24995812.zip",
+    "sha256": "bf1db3ea710204d9ca7adef451e9bb98c8704e79e60f514724457d3ee4b4b414"
+  },
+  "msi_app_player": {
+    "name": "MSI App Player",
+    "url": "https://download.msi.com/uti_exe/nb/MSI-APP-Player.zip",
+    "sha256": ""
+  },
+  "wps_office": {
+    "name": "WPS Office",
+    "url": "https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/12.2.0.23196/500.1001/WPSOffice_23196.exe",
+    "sha256": ""
+  },
+  "wps": {
+    "name": "WPS Office",
+    "url": "https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/12.2.0.23196/500.1001/WPSOffice_23196.exe",
+    "sha256": ""
+  }
+}

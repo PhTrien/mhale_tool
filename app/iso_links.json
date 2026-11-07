@@ -1,0 +1,114 @@
+{
+  "win11_26h2": {
+    "name": "Windows 11 26H2",
+    "url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/Windows_11_26H2.iso?download=true",
+    "fallback_url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/Windows_11_26H2.iso?download=true",
+    "server1_name": "Server 1 (Hugging Face - Siêu tốc)",
+    "server2_name": "Server 1 (Hugging Face - Siêu tốc)"
+  },
+  "win11_26h1": {
+    "name": "Windows 11 26H1",
+    "url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/windows_11_26h1.iso?download=true",
+    "fallback_url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/windows_11_26h1.iso?download=true",
+    "server1_name": "Server 1 (Hugging Face - Siêu tốc)",
+    "server2_name": "Server 1 (Hugging Face - Siêu tốc)"
+  },
+  "win11_25h2": {
+    "name": "Windows 11 25H2",
+    "url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/Windows_11_25h2.iso?download=true",
+    "fallback_url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/Windows_11_25h2.iso?download=true",
+    "server1_name": "Server 1 (Hugging Face - Siêu tốc)",
+    "server2_name": "Server 1 (Hugging Face - Siêu tốc)"
+  },
+  "win11_24h2": {
+    "name": "Windows 11 24H2",
+    "url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/Windows_11_24h2.iso?download=true",
+    "fallback_url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/Windows_11_24h2.iso?download=true",
+    "server1_name": "Server 1 (Hugging Face - Siêu tốc)",
+    "server2_name": "Server 1 (Hugging Face - Siêu tốc)"
+  },
+  "win11_ltsc": {
+    "name": "Windows 11 LTSC",
+    "url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/windows_11_ltsc_2024.iso?download=true",
+    "fallback_url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/windows_11_ltsc_2024.iso?download=true",
+    "server1_name": "Server 1 (Hugging Face - Siêu tốc)",
+    "server2_name": "Server 1 (Hugging Face - Siêu tốc)"
+  },
+  "win10_22h2": {
+    "name": "Windows 10 22H2",
+    "url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/windows_10_22h2.iso?download=true",
+    "fallback_url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/windows_10_22h2.iso?download=true",
+    "server1_name": "Server 1 (Hugging Face - Siêu tốc)",
+    "server2_name": "Server 1 (Hugging Face - Siêu tốc)"
+  },
+  "win10_ltsc_2019": {
+    "name": "Windows 10 LTSC 2019",
+    "url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/windows_10_ltsc_2019.iso?download=true",
+    "fallback_url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/windows_10_ltsc_2019.iso?download=true",
+    "server1_name": "Server 1 (Hugging Face - Siêu tốc)",
+    "server2_name": "Server 1 (Hugging Face - Siêu tốc)"
+  },
+  "win10_ltsc_2021": {
+    "name": "Windows 10 LTSC 2021",
+    "url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/windows_10_ltsc_2021.iso?download=true",
+    "fallback_url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/windows_10_ltsc_2021.iso?download=true",
+    "server1_name": "Server 1 (Hugging Face - Siêu tốc)",
+    "server2_name": "Server 1 (Hugging Face - Siêu tốc)"
+  },
+  "ubuntu_desktop_2604": {
+    "name": "Ubuntu Desktop 26.04 LTS",
+    "url": "https://releases.ubuntu.com/26.04/ubuntu-26.04.1-desktop-amd64.iso",
+    "fallback_url": "https://releases.ubuntu.com/26.04/ubuntu-26.04.1-desktop-amd64.iso",
+    "server1_name": "Ubuntu Official Server",
+    "server2_name": "Ubuntu Mirror Server"
+  },
+  "ubuntu_desktop_2404": {
+    "name": "Ubuntu Desktop 24.04 LTS",
+    "url": "https://releases.ubuntu.com/24.04/ubuntu-24.04.4-desktop-amd64.iso",
+    "fallback_url": "https://releases.ubuntu.com/24.04/ubuntu-24.04.4-desktop-amd64.iso",
+    "server1_name": "Ubuntu Official Server",
+    "server2_name": "Ubuntu Mirror Server"
+  },
+  "ubuntu_desktop_2204": {
+    "name": "Ubuntu Desktop 22.04 LTS",
+    "url": "https://releases.ubuntu.com/22.04/ubuntu-22.04.5-desktop-amd64.iso",
+    "fallback_url": "https://releases.ubuntu.com/22.04/ubuntu-22.04.5-desktop-amd64.iso",
+    "server1_name": "Ubuntu Official Server",
+    "server2_name": "Ubuntu Mirror Server"
+  },
+  "ubuntu_server_2604": {
+    "name": "Ubuntu Server 26.04 LTS",
+    "url": "https://releases.ubuntu.com/26.04/ubuntu-26.04.1-live-server-amd64.iso",
+    "fallback_url": "https://releases.ubuntu.com/26.04/ubuntu-26.04.1-live-server-amd64.iso",
+    "server1_name": "Ubuntu Official Server",
+    "server2_name": "Ubuntu Mirror Server"
+  },
+  "ubuntu_server_2404": {
+    "name": "Ubuntu Server 24.04 LTS",
+    "url": "https://releases.ubuntu.com/24.04/ubuntu-24.04.4-live-server-amd64.iso",
+    "fallback_url": "https://releases.ubuntu.com/24.04/ubuntu-24.04.4-live-server-amd64.iso",
+    "server1_name": "Ubuntu Official Server",
+    "server2_name": "Ubuntu Mirror Server"
+  },
+  "ubuntu_server_2204": {
+    "name": "Ubuntu Server 22.04 LTS",
+    "url": "https://releases.ubuntu.com/22.04/ubuntu-22.04.5-live-server-amd64.iso",
+    "fallback_url": "https://releases.ubuntu.com/22.04/ubuntu-22.04.5-live-server-amd64.iso",
+    "server1_name": "Ubuntu Official Server",
+    "server2_name": "Ubuntu Mirror Server"
+  },
+  "autounattend": {
+    "name": "Autounattend",
+    "url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/autounattend.xml",
+    "fallback_url": "https://huggingface.co/datasets/Mhale06/software/resolve/main/autounattend.xml",
+    "server1_name": "Server 1 (Hugging Face ISO)",
+    "server2_name": "Server 2 (Hugging Face Backup)"
+  },
+  "create_partition_winntsetup": {
+    "name": "Create Partition WinNTSetup",
+    "url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/Create_Partiton_Setup_WinNTSetup.bat",
+    "fallback_url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/Create_Partiton_Setup_WinNTSetup.bat",
+    "server1_name": "Server 1 (Hugging Face ISO)",
+    "server2_name": "Server 2 (Hugging Face CDN)"
+  }
+}
