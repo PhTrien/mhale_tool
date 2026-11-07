@@ -99,7 +99,7 @@
   },
   "autounattend": {
     "name": "Autounattend",
-    "url": "https://tool.mhale.io.vn/Mhale_Tool_v1.0.0.0.zip",
+    "url": "https://huggingface.co/datasets/Mhale06/iso/resolve/main/autounattend.xml",
     "fallback_url": "https://huggingface.co/datasets/Mhale06/software/resolve/main/autounattend.xml",
     "server1_name": "Server 1 (Hugging Face ISO)",
     "server2_name": "Server 2 (Hugging Face Backup)"
