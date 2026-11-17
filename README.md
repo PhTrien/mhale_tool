@@ -1,4 +1,4 @@
-﻿# MHALE TOOL
+# MHALE TOOL
 
 <p align="center">
   <img src="images/logo.jpg" width="160" alt="MHALE TOOL Logo">
@@ -16,7 +16,6 @@
 </p>
 
 ---
-
 
 ## Giới thiệu
 
@@ -69,21 +68,22 @@ Giao diện hiện đại, tiếng Việt 100%, hỗ trợ tray icon.
 
 | Module | Screenshot |
 |--------|----------|
-| Thông tin máy tính | ![Thông tin máy tính](screenshot/01_thong_tin_may_tinh.png) |
-| Thiết lập Windows | ![Thiết lập Windows](screenshot/02_thiet_lap_windows.png) |
-| Thiết lập Office | ![Thiết lập Office](screenshot/03_thiet_lap_office.png) |
-| Sao lưu WiFi | ![Sao lưu WiFi](screenshot/04_sao_luu_wifi.png) |
-| Sao lưu Driver | ![Sao lưu Driver](screenshot/05_sao_luu_driver.png) |
-| Sao lưu Dữ liệu | ![Sao lưu Dữ liệu](screenshot/06_sao_luu_du_lieu.png) |
-| Zalo Tool | ![Zalo Tool](screenshot/07_zalo_tool.png) |
-| Kho ứng dụng | ![Kho ứng dụng](screenshot/08_kho_ung_dung.png) |
-| Cài đặt Office | ![Cài đặt Office](screenshot/09_cai_dat_office.png) |
-| Kho ISO | ![Kho ISO](screenshot/10_kho_iso.png) |
-| Thiết lập máy in | ![Thiết lập máy in](screenshot/11_thiet_lap_may_in.png) |
-| Xóa / Gỡ phần mềm rác | ![Xóa / Gỡ phần mềm rác](screenshot/12_xoa_go_phan_mem_rac.png) |
-| Store cho Win LTSC | ![Store cho Win LTSC](screenshot/13_store_cho_win_ltsc.png) |
-| Kho Driver IRST | ![Kho Driver IRST](screenshot/14_kho_driver_irst.png) |
-| Tray Menu | ![Tray Menu](screenshot/15_khay_he_thong_tray_menu.png) |
+| Thông tin máy tính | ![Thông tin máy tính](images/01_thong_tin_may_tinh.png) |
+| Thiết lập Windows | ![Thiết lập Windows](images/02_thiet_lap_windows.png) |
+| Thiết lập Office | ![Thiết lập Office](images/03_thiet_lap_office.png) |
+| Sao lưu WiFi | ![Sao lưu WiFi](images/04_sao_luu_wifi.png) |
+| Sao lưu Driver | ![Sao lưu Driver](images/05_sao_luu_driver.png) |
+| Sao lưu Dữ liệu | ![Sao lưu Dữ liệu](images/06_sao_luu_du_lieu.png) |
+| Zalo Tool | ![Zalo Tool](images/07_zalo_tool.png) |
+| Kho ứng dụng | ![Kho ứng dụng](images/08_kho_ung_dung.png) |
+| Cài đặt Office | ![Cài đặt Office](images/09_cai_dat_office.png) |
+| Kho ISO | ![Kho ISO](images/10_kho_iso.png) |
+| Thiết lập máy in | ![Thiết lập máy in](images/11_thiet_lap_may_in.png) |
+| Xóa / Gỡ phần mềm rác | ![Xóa / Gỡ phần mềm rác](images/12_xoa_go_phan_mem_rac.png) |
+| Store cho Win LTSC | ![Store cho Win LTSC](images/13_store_cho_win_ltsc.png) |
+| Kho Driver IRST | ![Kho Driver IRST](images/14_kho_driver_irst.png) |
+| Tray Menu | ![Tray Menu](images/15_khay_he_thong_tray_menu.png) |
+| Quản lý BitLocker | ![BitLocker](images/test_bitlocker_tab.png) |
 
 ---
 
