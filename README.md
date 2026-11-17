@@ -17,32 +17,6 @@
 
 ---
 
-## Ảnh chụp màn hình
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| ![Thông tin máy tính](screenshot/01_thong_tin_may_tinh.png) | ![Thiết lập Windows](screenshot/02_thiet_lap_windows.png) |
-| Thông tin máy tính | Thiết lập Windows |
-| ![Thiết lập Office](screenshot/03_thiet_lap_office.png) | ![Sao lưu Wi-Fi](screenshot/04_sao_luu_wifi.png) |
-| Thiết lập Office | Sao lưu Wi-Fi |
-| ![Sao lưu Driver](screenshot/05_sao_luu_driver.png) | ![Sao lưu Dữ liệu](screenshot/06_sao_luu_du_lieu.png) |
-| Sao lưu Driver | Sao lưu Dữ liệu |
-| ![Zalo Tool](screenshot/07_zalo_tool.png) | ![Kho Ứng dụng](screenshot/08_kho_ung_dung.png) |
-| Zalo Tool | Kho Ứng dụng |
-| ![Cài đặt Office](screenshot/09_cai_dat_office.png) | ![Kho ISO](screenshot/10_kho_iso.png) |
-| Cài đặt Office | Kho ISO |
-| ![Thiết lập Máy in](screenshot/11_thiet_lap_may_in.png) | ![Xóa Phần mềm Rác](screenshot/12_xoa_go_phan_mem_rac.png) |
-| Thiết lập Máy in | Xóa Phần mềm Rác |
-| ![Store cho Windows LTSC](screenshot/13_store_cho_win_ltsc.png) | ![Kho Driver IRST](screenshot/14_kho_driver_irst.png) |
-| Store cho Windows LTSC | Kho Driver IRST |
-| ![Khay Hệ thống](screenshot/15_khay_he_thong_tray_menu.png) | ![Fix VTx AMD](screenshot/16_fix_vtx_amd.png) |
-| Khay Hệ thống | Fix VT-x / AMD-V |
-
-</div>
-
----
 
 ## Giới thiệu
 
